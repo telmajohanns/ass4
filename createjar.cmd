@@ -1,1 +1,1 @@
-java -cp target/helloworld-1.0-SNAPSHOT.jar is.hi.tej2.hbv202g.ass4.App
+mvn clean package
